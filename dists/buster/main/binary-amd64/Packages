@@ -1,0 +1,16 @@
+Package: xrescat
+Version: 1.1-1ubuntu1ppa1
+Architecture: amd64
+Maintainer: Ken Gilmer <kgilmer@gmail.com>
+Installed-Size: 24
+Depends: libc6 (>= 2.4), libx11-6
+Homepage: https://github.com/tamirzb/xrescat
+Priority: optional
+Section: x11
+Filename: pool/main/x/xrescat/xrescat_1.1-1ubuntu1ppa1_amd64.deb
+Size: 5392
+SHA256: 6827add4a98aed4deab9a2cb5b7e148e34c0f200fdd5c37cafb32e8b2c9613ca
+SHA1: e01870bbe739ce50c973600c1f5c416ee7c5aa53
+MD5sum: 362edfa38bca55ae47be602820cd7ae9
+Description: Simple utility which prints the value of an X resource
+

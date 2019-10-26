@@ -1,0 +1,19 @@
+Origin: kgilmer.github.io/regolith-debian-repository
+Label: Regolith Debian
+Codename: buster
+Date: Sat, 26 Oct 2019 15:55:04 UTC
+Architectures: amd64
+Components: main
+Description: Regolith Debian
+MD5Sum:
+ 61722549d8651d3c2c2cce8bf8880a70 542 main/binary-amd64/Packages
+ 398481976bbbfeaba70150d7fa006d16 406 main/binary-amd64/Packages.gz
+ 9be83b0aa0b7e235b7cb014ff96a1a85 141 main/binary-amd64/Release
+SHA1:
+ 98bb63577a11d1e933bff9e9ff1186b80e580c28 542 main/binary-amd64/Packages
+ 3090c53ebb0b2aa022e05a2291b3819440f7bc44 406 main/binary-amd64/Packages.gz
+ 23c78d8d581ce582b0d126889a39390b8e32e73c 141 main/binary-amd64/Release
+SHA256:
+ e184a16e81cf5953e04976739c65ab54c21a26d955044050f679f2ee726867a4 542 main/binary-amd64/Packages
+ 50d9b8e4a1e331660769649417b1fdb13159b8aecb793f3611f7e4065e65e7c9 406 main/binary-amd64/Packages.gz
+ 11a43c42ee1f10d1be1cea961ee658d0675864a2134963eb2a7a0f50e3ff98a0 141 main/binary-amd64/Release
